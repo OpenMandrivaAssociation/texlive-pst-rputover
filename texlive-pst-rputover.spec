@@ -1,6 +1,6 @@
 Name:		texlive-pst-rputover
 Version:	44724
-Release:	1
+Release:	2
 Summary:	Place text over objects without obscuring background colors
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pst-rputover
