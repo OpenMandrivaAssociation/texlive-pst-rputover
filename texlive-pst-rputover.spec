@@ -3,7 +3,7 @@ Version:	44724
 Release:	2
 Summary:	Place text over objects without obscuring background colors
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pst-rputover
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pst-rputover
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-rputover.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-rputover.doc.r%{version}.tar.xz
